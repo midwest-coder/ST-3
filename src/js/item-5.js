@@ -24,7 +24,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '6949451202766',
-        node: document.getElementById('product-component-1644872270860'),
+        node: document.getElementById('product-component-1645229645498'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -38,11 +38,11 @@
       },
       "button": {
         ":hover": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
-        "background-color": "#010164",
+        "background-color": "#a400af",
         ":focus": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
         "border-radius": "40px",
         "padding-left": "100px",
@@ -84,11 +84,11 @@
       },
       "button": {
         ":hover": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
-        "background-color": "#010164",
+        "background-color": "#a400af",
         ":focus": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
         "border-radius": "40px",
         "padding-left": "100px",
@@ -104,11 +104,11 @@
     "styles": {
       "button": {
         ":hover": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
-        "background-color": "#010164",
+        "background-color": "#a400af",
         ":focus": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
         "border-radius": "40px"
       }
@@ -121,12 +121,12 @@
   "toggle": {
     "styles": {
       "toggle": {
-        "background-color": "#010164",
+        "background-color": "#a400af",
         ":hover": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         },
         ":focus": {
-          "background-color": "#0202aa"
+          "background-color": "#ff00ff"
         }
       }
     }
